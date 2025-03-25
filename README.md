@@ -47,6 +47,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data from 
 Develop SQL-based analytics to extract actionable insights that empower stakeholders with key business metrics and enable strategic decision-making.
 
 📊 Insights Delivered:
+
 ✔ Customer Behavior Analysis: Identify key customer segments and purchasing patterns.
 
 ✔ Product Performance Evaluation: Assess sales trends, profitability, and product demand.
