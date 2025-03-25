@@ -26,9 +26,11 @@ This project demonstrates the end-to-end development of a modern data warehouse 
 1️⃣ Building the Data Warehouse (Data Engineering)
 
 📌 Objective:
+
 Develop a modern data warehouse using SQL Server to consolidate sales data from multiple sources, enabling efficient analytical reporting and data-driven decision-making.
 
 🔍 Key Specifications:
+
 ✔ Data Sources: Import structured data from ERP and CRM systems, provided as CSV files.
 ✔ Data Quality: Implement data cleansing techniques to resolve inconsistencies and ensure high-quality analytics.
 ✔ Data Integration: Merge ERP and CRM data into a single, well-structured data model optimized for analytical queries.
@@ -41,6 +43,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data from 
 2️⃣ Business Intelligence & Analytics (Data Analysis)
 -------------------------------------------------------------------------------------------
 📌 Objective:
+
 Develop SQL-based analytics to extract actionable insights that empower stakeholders with key business metrics and enable strategic decision-making.
 
 📊 Insights Delivered:
