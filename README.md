@@ -42,8 +42,11 @@ Develop SQL-based analytics to extract actionable insights that empower stakehol
 
 📊 Insights Delivered:
 ✔ Customer Behavior Analysis: Identify key customer segments and purchasing patterns.
+
 ✔ Product Performance Evaluation: Assess sales trends, profitability, and product demand.
+
 ✔ Sales Trends & Forecasting: Analyze revenue performance and seasonal variations to drive business growth.
+
 ==================================================================================================================================
 🏗️ Tech Stack & Tools
 🛠️ SQL Server – Data warehouse storage and transformation
