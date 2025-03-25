@@ -7,6 +7,7 @@ This project demonstrates the end-to-end development of a modern data warehouse 
 
 
 🔹 Key Features
+
 ✔ Medallion Architecture Implementation (Bronze, Silver, and Gold layers)
 
 ✔ Efficient ETL Pipelines for data extraction, transformation, and loading
@@ -23,6 +24,7 @@ This project demonstrates the end-to-end development of a modern data warehouse 
 🚀 Project Requirements
 ---------------------------------------------------------------------------------------------------------------------
 1️⃣ Building the Data Warehouse (Data Engineering)
+
 📌 Objective:
 Develop a modern data warehouse using SQL Server to consolidate sales data from multiple sources, enabling efficient analytical reporting and data-driven decision-making.
 
