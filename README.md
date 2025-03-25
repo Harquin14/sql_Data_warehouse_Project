@@ -16,6 +16,7 @@ This project demonstrates the end-to-end development of a modern data warehouse 
 ✔ SQL-based Analytics & Reporting for business 
 
 ✔ Data Quality Processing to cleanse and standardize data from multiple sources
+
 =================================================================================================================
 
 
@@ -48,8 +49,13 @@ Develop SQL-based analytics to extract actionable insights that empower stakehol
 ✔ Sales Trends & Forecasting: Analyze revenue performance and seasonal variations to drive business growth.
 
 ==================================================================================================================================
+
 🏗️ Tech Stack & Tools
 🛠️ SQL Server – Data warehouse storage and transformation
+
 🛠️ SSMS (SQL Server Management Studio) – Query execution and database management
-🛠️ Tableau / Power BI – Data visualization & reporting (Optional for dashboards)
+
+🛠️ Tableau – Data visualization & reporting (Optional for dashboards)
+
 🛠️ GitHub – Version control and documentation
+
