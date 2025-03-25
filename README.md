@@ -8,9 +8,13 @@ This project demonstrates the end-to-end development of a modern data warehouse 
 
 🔹 Key Features
 ✔ Medallion Architecture Implementation (Bronze, Silver, and Gold layers)
+
 ✔ Efficient ETL Pipelines for data extraction, transformation, and loading
+
 ✔ Star Schema Data Modeling (Fact & Dimension tables) for optimized querying
-✔ SQL-based Analytics & Reporting for business intelligence
+
+✔ SQL-based Analytics & Reporting for business 
+
 ✔ Data Quality Processing to cleanse and standardize data from multiple sources
 =================================================================================================================
 
