@@ -32,9 +32,13 @@ Develop a modern data warehouse using SQL Server to consolidate sales data from 
 🔍 Key Specifications:
 
 ✔ Data Sources: Import structured data from ERP and CRM systems, provided as CSV files.
+
 ✔ Data Quality: Implement data cleansing techniques to resolve inconsistencies and ensure high-quality analytics.
+
 ✔ Data Integration: Merge ERP and CRM data into a single, well-structured data model optimized for analytical queries.
+
 ✔ Scope: Focus on the latest dataset only; historical data retention is not required.
+
 ✔ Documentation: Provide clear, well-structured documentation, including ERD diagrams, schema definitions, and business rules, to support both business stakeholders and analytics teams.
 
 ======================================================================================================================
